@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707367084801",
+    "project_id": "login2-1-2c61a",
+    "storage_bucket": "login2-1-2c61a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707367084801:android:14c85e60f22b669da7b100",
+        "android_client_info": {
+          "package_name": "com.example.login_firebass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707367084801-0s552v15p87vknhr60gv87l8idh2u90j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-ikDYdB6l0nCrjJn8ENVhDVBxewY9Upc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707367084801-0s552v15p87vknhr60gv87l8idh2u90j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
