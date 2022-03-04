@@ -43,7 +43,7 @@ class Welcome extends StatelessWidget {
               minWidth: double.infinity,
               height: 60,
               onPressed: () {
-                Get.to(Login());
+                Get.to(() => Login());
               },
               splashColor: Colors.greenAccent,
               shape: RoundedRectangleBorder(
@@ -71,7 +71,7 @@ class Welcome extends StatelessWidget {
                   minWidth: double.infinity,
                   height: 60,
                   onPressed: () {
-                    Get.to(Signup());
+                    Get.to(() => Signup());
                   },
                   splashColor: Colors.greenAccent,
                   color: Colors.yellowAccent,

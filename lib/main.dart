@@ -1,6 +1,7 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:login_firebass/view/home.dart';
 
 import 'package:login_firebass/view/welcome.dart';
 
